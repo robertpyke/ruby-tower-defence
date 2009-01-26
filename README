@@ -1,9 +1,9 @@
 -----------------
-| pytow-defence |
+| ruby-tower-defence |
 -----------------
 
 About:
-	pytow-defence is a tower defence "game" written in Ruby, using the gem Rubygame. 
+	ruby-tower-defence is a tower defence "game" written in Ruby, using the gem Rubygame. 
 
 Major Contributors:
 	Name, Git-Id, Website 
