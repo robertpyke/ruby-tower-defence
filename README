@@ -1,6 +1,6 @@
------------------
+----------------------
 | ruby-tower-defence |
------------------
+----------------------
 
 About:
 	ruby-tower-defence is a tower defence "game" written in Ruby, using the gem Rubygame. 
